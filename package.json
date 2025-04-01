@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Danilo-Miguel/SDM-BUA-01#readme",
   "dependencies": {
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "sdm-bua-01": "file:"
   }
 }
